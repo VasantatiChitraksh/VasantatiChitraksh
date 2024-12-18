@@ -8,10 +8,13 @@ I'm a **2nd-year Computer Science graduate** with a passion for **game developme
 My goal is to leverage my diverse skill set in both **software development** and **machine learning** to create impactful solutions and build innovative applications.
 
 You can check out some of my work and projects here on GitHub, or connect with me through my social profiles!
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/VasantatiChitraksh?tab=repositories)
+- 📫 How to reach me **chitravasantati@gmail.com**
 
 ---
 
 ## 🌐 Social Links
+
 - [YouTube](https://www.youtube.com/@Chitraksh_vasantati_2307)
 - [LinkedIn](https://www.linkedin.com/in/chitraksh-vasantati/)
 - [Instagram](https://www.instagram.com/cv_23076/)
