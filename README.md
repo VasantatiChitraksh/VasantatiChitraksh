@@ -60,5 +60,3 @@ Currently, I'm focusing on **game development** and improving my skills in build
 Feel free to reach out to me if you have any questions, collaboration ideas, or just want to chat about tech, game development, or machine learning. I'm always open to learning and growing with fellow enthusiasts! 
 
 ---
-
-I hope you find this template helpful! Feel free to personalize it further as per your preferences.
