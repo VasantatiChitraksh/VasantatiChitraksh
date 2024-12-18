@@ -1,6 +1,4 @@
-Here's a professional yet engaging README template you can use for your GitHub profile:
 
----
 
 # 👋 Hi, I'm Chitraksh Vasantati
 
