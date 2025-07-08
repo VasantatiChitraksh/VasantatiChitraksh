@@ -1,62 +1,70 @@
-
-
 # 👋 Hi, I'm Chitraksh Vasantati
 
-## 🚀 About Me
-I'm a **2nd-year Computer Science graduate** with a passion for **game development** and **machine learning (ML) research**. I enjoy diving into new technologies and tackling exciting projects in various domains. When I'm not coding, you'll likely find me exploring the world, staying active through sports, or working on creative projects. 
+## 🚀 About Me  
+I'm a **3rd-year Computer Science undergraduate** driven by a love for **full-stack software development**, **machine learning**, and **DevOps**. I’m passionate about building purpose-driven applications that solve real-world problems.
 
-My goal is to leverage my diverse skill set in both **software development** and **machine learning** to create impactful solutions and build innovative applications.
+My expertise spans from **mobile app development** to **cloud-native backends**, and I'm currently exploring advanced **ML domains** like **LLMs**, **RAG**, **Computer Vision**, and **Speech Transformers**.
 
-You can check out some of my work and projects here on GitHub, or connect with me through my social profiles!
-- 👨‍💻 All of my projects are available at [Projects](https://github.com/VasantatiChitraksh?tab=repositories)
-- 📫 How to reach me **chitravasantati@gmail.com**
+📱 **Built an app with 500+ downloads on Play Store:**  
+[ICCMS 2025 – Conference Companion App](https://play.google.com/store/apps/details?id=org.iitt.iccms2025)
+
+🧑‍💻 **Actively looking for freelance projects, internships, and collaborations!**
 
 ---
 
 ## 🌐 Social Links
 
-- [YouTube](https://www.youtube.com/@Chitraksh_vasantati_2307)
-- [LinkedIn](https://www.linkedin.com/in/chitraksh-vasantati/)
-- [Instagram](https://www.instagram.com/cv_23076/)
+- [🔗 LinkedIn](https://www.linkedin.com/in/chitraksh-vasantati/)
+- [📺 YouTube](https://www.youtube.com/@Chitraksh_vasantati_2307)
+- [📸 Instagram](https://www.instagram.com/cv_23076/)
+- [💻 GitHub Projects](https://github.com/VasantatiChitraksh?tab=repositories)
+- 📫 Email: **chitravasantati@gmail.com**
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### 🚀 Technologies & Tools
-- **Frontend:** React, React Native, Flutter
-- **Backend:** MERN Stack, Flask
-- **Languages:** Python, Java, JavaScript, C, C++, C#
-- **Machine Learning & Research:** Exploring ML algorithms, models, and research
-- **Other:** Git, Docker, APIs, SQL
+### 👨‍💻 Languages  
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
----
+### 📱 App Development  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-## 🎮 Game Development & Machine Learning
-Currently, I'm focusing on **game development** and improving my skills in building interactive, engaging games. Alongside, I'm venturing deeper into **machine learning research**, particularly around developing algorithms that can help solve real-world problems. I aim to integrate ML with my game development projects to create more intelligent and adaptive gameplay experiences.
+### 🌐 Web Development  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
----
+### ☁️ DevOps & Backend  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-## 🔥 Current Projects
-- **Game Development:** Working on an exciting game that leverages my skills in game mechanics, design, and programming. Stay tuned for updates!
-- **ML Research:** Exploring cutting-edge machine learning algorithms to contribute to the research community.
-
----
-
-## 🏅 My Journey
-
-- **Passionate about** sports, **travel**, and learning new technologies.
-- Aiming to make an impact through **coding**, **game development**, and **machine learning**.
-- I love collaborating on projects that push the boundaries of innovation and creativity.
+### 🧠 Machine Learning  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
+- Working with **Large Language Models (LLMs)**  
+- Exploring **Retrieval-Augmented Generation (RAG)**  
+- Projects in **Computer Vision** and **Speech Transformers**
 
 ---
 
 ## 📈 GitHub Stats
+
 ![Chitraksh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VasantatiChitraksh&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
 
 ---
 
-## 💬 Let's Connect!
-Feel free to reach out to me if you have any questions, collaboration ideas, or just want to chat about tech, game development, or machine learning. I'm always open to learning and growing with fellow enthusiasts! 
+## 💬 Let's Connect
+
+If you're building something impactful or need a solid developer for your team, I'm open to collaborations, internships, and freelance projects. Let's build something awesome together!
 
 ---
