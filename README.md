@@ -108,16 +108,17 @@ class Chitraksh:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=VasantatiChitraksh&show_icons=true&count_private=true&hide=prs&theme=tokyonight&border_color=00F5FF&title_color=00F5FF&icon_color=FF00A0&hide_border=false" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasantatiChitraksh&layout=compact&theme=tokyonight&border_color=00F5FF&title_color=00F5FF&hide_border=false" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VasantatiChitraksh&show_icons=true&count_private=true&hide=prs&theme=tokyonight&border_color=00F5FF&title_color=00F5FF&icon_color=FF00A0&hide_border=false" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasantatiChitraksh&layout=compact&theme=tokyonight&border_color=00F5FF&title_color=00F5FF&hide_border=false" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=VasantatiChitraksh&theme=tokyonight&border=00F5FF&ring=FF00A0&fire=FFD700&currStreakLabel=00F5FF)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com?user=VasantatiChitraksh&theme=tokyonight&border=00F5FF&ring=FF00A0&fire=FFD700&currStreakLabel=00F5FF" />
 
 </div>
+
 
 ---
 
