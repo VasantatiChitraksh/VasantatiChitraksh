@@ -15,7 +15,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00F5FF?style=for-the-badge&logoColor=black)](https://VasantatiChitraksh.github.io)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00F5FF?style=for-the-badge&logoColor=black)](https://vasantatichitraksh.github.io/chitraksh-vasantati.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chitraksh-vasantati/)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chitravasantati@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Chitraksh_vasantati_2307)
@@ -108,17 +108,16 @@ class Chitraksh:
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VasantatiChitraksh&show_icons=true&count_private=true&hide=prs&theme=tokyonight&border_color=00F5FF&title_color=00F5FF&icon_color=FF00A0&hide_border=false" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasantatiChitraksh&layout=compact&theme=tokyonight&border_color=00F5FF&title_color=00F5FF&hide_border=false" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VasantatiChitraksh&show_icons=true&count_private=true&hide=prs&theme=tokyonight&border_color=00F5FF&title_color=00F5FF&icon_color=FF00A0&hide_border=false" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasantatiChitraksh&layout=compact&theme=tokyonight&border_color=00F5FF&title_color=00F5FF&hide_border=false" />
 
 </div>
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=VasantatiChitraksh&theme=tokyonight&border=00F5FF&ring=FF00A0&fire=FFD700&currStreakLabel=00F5FF" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=VasantatiChitraksh&theme=tokyonight&border=00F5FF&ring=FF00A0&fire=FFD700&currStreakLabel=00F5FF)](https://git.io/streak-stats)
 
 </div>
-
 
 ---
 
