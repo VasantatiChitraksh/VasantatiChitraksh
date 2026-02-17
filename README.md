@@ -108,8 +108,8 @@ class Chitraksh:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=VasantatiChitraksh&show_icons=true&count_private=true&hide=prs&theme=tokyonight&border_color=00F5FF&title_color=00F5FF&icon_color=FF00A0&hide_border=false" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasantatiChitraksh&layout=compact&theme=tokyonight&border_color=00F5FF&title_color=00F5FF&hide_border=false" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VasantatiChitraksh&show_icons=true&count_private=true&hide=prs&theme=tokyonight&border_color=00F5FF&title_color=00F5FF&icon_color=FF00A0" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VasantatiChitraksh&layout=compact&theme=tokyonight&border_color=00F5FF&title_color=00F5FF" />
 
 </div>
 
@@ -142,7 +142,7 @@ class Chitraksh:
 
 **📬 chitravasantati@gmail.com**
 
-[![Portfolio →](https://img.shields.io/badge/View_Full_Portfolio_→-00F5FF?style=for-the-badge)](https://VasantatiChitraksh.github.io)
+[![Portfolio →](https://img.shields.io/badge/View_Full_Portfolio_→-00F5FF?style=for-the-badge)](https://vasantatichitraksh.github.io/chitraksh-vasantati.github.io)
 
 </div>
 
